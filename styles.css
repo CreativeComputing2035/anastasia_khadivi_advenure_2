@@ -1,0 +1,10 @@
+h2{
+	color: red;
+}
+#cars_over, #properties_over, #gambling_over, #stock_over, #bond_over, #savings_over, #college_over, #house_over{
+	color: red;
+}
+#teenagers_yay{
+	font-size: 1.2em;
+	color: green;
+}
